@@ -66,9 +66,11 @@ This hands-on activity demonstrated how Copilot can enhance efficiency while kee
 ---
 
 ## Course Certificate
+- [📎 View Advanced Certificate](Data_Analysis for Microsoft Excel.pdf)
+
 ## Course Certificates
 - [📎 View Fundamentals Certificate](Certificate_MS_365_Fundamentals.pdf)
-- [📎 View Advanced Certificate](Certificate_MS_365_Advance.pdf)
+
 
 ---
 
