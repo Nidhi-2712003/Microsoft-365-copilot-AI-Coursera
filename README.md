@@ -10,7 +10,7 @@ Coursera project on Microsoft 365 Copilot – Word, Teams, outlook, Excel & Powe
 ---
 
 ## Course Overview
-The **Fundamentals of Microsoft 365 Copilot** course provided an in-depth understanding of how AI-driven productivity tools enhance modern business workflows within Microsoft Word, Excel, and PowerPoint.  
+The **Fundamentals of Microsoft 365 Copilot** course provided an in-depth understanding of how AI-driven productivity tools enhance modern business workflows within Microsoft Word, Excel, and PowerPoint. , Teams, Outlook, and Power BI.
 
 Through guided lessons, practical demonstrations, and a final project, I explored how Microsoft 365 Copilot assists in content creation, data analysis, and presentation storytelling — all while maintaining ethical and responsible AI usage.
 
@@ -45,6 +45,21 @@ Through guided lessons, practical demonstrations, and a final project, I explore
 - Strengthened presentation skills by integrating visual clarity with concise messaging.
 
 ---
+
+### 5. Copilot in Microsoft Teams & Outlook
+- Leveraged Copilot in **Microsoft Teams to streamline meeting summaries, action items, and team collaboration** through AI-generated insights.
+- Utilized **Outlook Copilot to draft professional emails, schedule meetings efficiently, and prioritize inbox management** with intelligent suggestions.
+- Enhanced cross-functional communication by automating repetitive tasks and improving response time in business correspondence.
+- Applied AI-driven productivity features to manage workflows, track project updates, and maintain organizational efficiency across collaborative platforms.
+
+- ---
+
+### 6. Copilot for Power BI – Data Visualization & Analytics
+- Explored **Power BI Copilot to generate interactive dashboards and automated data insights** from complex datasets.
+- Learned to create **DAX measures, calculated columns, and advanced visualizations** using natural language prompts for faster report development.
+- Applied AI-powered analytics to identify trends, patterns, and anomalies in business data, enhancing decision-making processes.
+- Developed proficiency in **building dynamic reports, KPI tracking, and storytelling with data** to communicate insights effectively to stakeholders.
+- Integrated Power BI with Microsoft 365 ecosystem for seamless data sharing and collaborative analytics across teams.
 
 ### 5. Ethics & Prompt Engineering
 - Learned to craft **effective and clear prompts** that align with business goals.  
@@ -88,6 +103,9 @@ Explore supporting files and assets used for this course:
 - Strengthened presentation storytelling using PowerPoint Copilot.  
 - Developed prompt-engineering skills and ethical AI awareness.  
 - Enhanced confidence in applying AI tools for business communication and analytics.
+- - Streamlined team collaboration and meeting efficiency using Microsoft Teams Copilot.
+- Optimized email communication and inbox management with Outlook Copilot automation.
+- Built interactive dashboards and data-driven reports using Power BI Copilot for advanced analytics.
 
 ---
 
