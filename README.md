@@ -1,4 +1,4 @@
-# Microsoft-365-copilot AI - coursera
+# Microsoft-365-copilot AI - Coursera
 Coursera project on Microsoft 365 Copilot – Word, Teams, outlook, Excel &amp; PowerPoint automation using AI.
 # Fundamentals of Microsoft 365 Copilot (Coursera)
 
