@@ -103,7 +103,7 @@ Explore supporting files and assets used for this course:
 - Strengthened presentation storytelling using PowerPoint Copilot.  
 - Developed prompt-engineering skills and ethical AI awareness.  
 - Enhanced confidence in applying AI tools for business communication and analytics.
-- - Streamlined team collaboration and meeting efficiency using Microsoft Teams Copilot.
+- Streamlined team collaboration and meeting efficiency using Microsoft Teams Copilot.
 - Optimized email communication and inbox management with Outlook Copilot automation.
 - Built interactive dashboards and data-driven reports using Power BI Copilot for advanced analytics.
 
